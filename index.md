@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+## Gilgamesh Platform
 
-You can use the [editor on GitHub](https://github.com/AtefeMsb/gilgamesh-website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Gilgamesh Platform: Knowledge-sharing social network platform
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![image description](https://media-exp1.licdn.com/dms/image/C561BAQGSl8jD_vdCaQ/company-background_10000/0/1646973836580?e=1647064800&v=beta&t=CjIBe_mvSEr2XtrnjRJ5fXYJRJXAH2cmqWrS49dSvlE)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AtefeMsb/gilgamesh-website/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Gilgamesh is a knowledge-sharing social platform powered by Ethereum smart contracts and blockchain technology. The network shifts the way readers, critics, and authors communicate and connect with one another. Using the Gilgamesh platform, users can gain and transfer knowledge in a protected environment that encourages widespread learning and education and incentivizes the human race to become more thoughtful and information-centric.
